@@ -1,6 +1,7 @@
 .one{
     text-align:center;
     font-size: large;
+
 } 
 div{
     background-color: cyan;
@@ -9,4 +10,5 @@ div{
 }
 .two{
     font-size: 3rem;
+    color: blue;
 }
